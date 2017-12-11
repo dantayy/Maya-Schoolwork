@@ -1,0 +1,124 @@
+fileFormatVersion: 2
+guid: 91173a848208d7a4ea9b3c9079bfc33a
+timeCreated: 1512961675
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: body
+    100002: camera_primary
+    100004: //RootNode
+    100006: dumpster_3yd
+    100008: dumpster_armature
+    100010: fill_light
+    100012: key_light
+    100014: lid_left
+    100016: lid_left_end
+    100018: lid_right
+    100020: lid_right_end
+    100022: wheel_control
+    100024: wheel_control_end
+    100026: wheel_left_front
+    100028: wheel_left_front_end
+    100030: wheel_left_rear
+    100032: wheel_left_rear_end
+    100034: wheel_right_front
+    100036: wheel_right_front_end
+    100038: wheel_right_rear
+    100040: wheel_right_rear_end
+    400000: body
+    400002: camera_primary
+    400004: //RootNode
+    400006: dumpster_3yd
+    400008: dumpster_armature
+    400010: fill_light
+    400012: key_light
+    400014: lid_left
+    400016: lid_left_end
+    400018: lid_right
+    400020: lid_right_end
+    400022: wheel_control
+    400024: wheel_control_end
+    400026: wheel_left_front
+    400028: wheel_left_front_end
+    400030: wheel_left_rear
+    400032: wheel_left_rear_end
+    400034: wheel_right_front
+    400036: wheel_right_front_end
+    400038: wheel_right_rear
+    400040: wheel_right_rear_end
+    4300000: dumpster_3yd
+    7400000: dumpster_armature|dumpster_armatureAction.003
+    7400002: dumpster_armature|dumpster_hires_heroAction.001
+    9500000: //RootNode
+    13700000: dumpster_3yd
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

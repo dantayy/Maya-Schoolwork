@@ -1,0 +1,217 @@
+fileFormatVersion: 2
+guid: 02b0274e9faf2d043861080eaae110ce
+timeCreated: 1512922906
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: arm_jnt1
+    100002: arm_jnt2
+    100004: back_foot_jnt1
+    100006: back_foot_jnt2
+    100008: front_foot_jnt1
+    100010: front_foot_jnt2
+    100012: hip_jnt1
+    100014: hip_jnt2
+    100016: leg_jnt1
+    100018: leg_jnt2
+    100020: neck_jnt
+    100022: //RootNode
+    100024: rat
+    100026: root_jnt
+    100028: shoulder_jnt1
+    100030: shoulder_jnt2
+    100032: spine_jnt1
+    100034: spine_jnt2
+    100036: spine_jnt3
+    100038: spine_jnt4
+    100040: tail_jnt1
+    100042: tail_jnt2
+    100044: tail_jnt3
+    100046: tail_jnt4
+    100048: tail_jnt5
+    100050: tail_jnt6
+    100052: tail_jnt7
+    400000: arm_jnt1
+    400002: arm_jnt2
+    400004: back_foot_jnt1
+    400006: back_foot_jnt2
+    400008: front_foot_jnt1
+    400010: front_foot_jnt2
+    400012: hip_jnt1
+    400014: hip_jnt2
+    400016: leg_jnt1
+    400018: leg_jnt2
+    400020: neck_jnt
+    400022: //RootNode
+    400024: rat
+    400026: root_jnt
+    400028: shoulder_jnt1
+    400030: shoulder_jnt2
+    400032: spine_jnt1
+    400034: spine_jnt2
+    400036: spine_jnt3
+    400038: spine_jnt4
+    400040: tail_jnt1
+    400042: tail_jnt2
+    400044: tail_jnt3
+    400046: tail_jnt4
+    400048: tail_jnt5
+    400050: tail_jnt6
+    400052: tail_jnt7
+    4300000: rat
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: rat
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Take 001
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 75
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: rat
+        weight: 1
+      - path: root_jnt
+        weight: 1
+      - path: root_jnt/hip_jnt1
+        weight: 1
+      - path: root_jnt/hip_jnt1/leg_jnt1
+        weight: 1
+      - path: root_jnt/hip_jnt1/leg_jnt1/back_foot_jnt1
+        weight: 1
+      - path: root_jnt/hip_jnt2
+        weight: 1
+      - path: root_jnt/hip_jnt2/leg_jnt2
+        weight: 1
+      - path: root_jnt/hip_jnt2/leg_jnt2/back_foot_jnt2
+        weight: 1
+      - path: root_jnt/spine_jnt1
+        weight: 1
+      - path: root_jnt/spine_jnt1/spine_jnt2
+        weight: 1
+      - path: root_jnt/spine_jnt1/spine_jnt2/spine_jnt3
+        weight: 1
+      - path: root_jnt/spine_jnt1/spine_jnt2/spine_jnt3/shoulder_jnt1
+        weight: 1
+      - path: root_jnt/spine_jnt1/spine_jnt2/spine_jnt3/shoulder_jnt1/arm_jnt1
+        weight: 1
+      - path: root_jnt/spine_jnt1/spine_jnt2/spine_jnt3/shoulder_jnt1/arm_jnt1/front_foot_jnt1
+        weight: 1
+      - path: root_jnt/spine_jnt1/spine_jnt2/spine_jnt3/shoulder_jnt2
+        weight: 1
+      - path: root_jnt/spine_jnt1/spine_jnt2/spine_jnt3/shoulder_jnt2/arm_jnt2
+        weight: 1
+      - path: root_jnt/spine_jnt1/spine_jnt2/spine_jnt3/shoulder_jnt2/arm_jnt2/front_foot_jnt2
+        weight: 1
+      - path: root_jnt/spine_jnt1/spine_jnt2/spine_jnt3/spine_jnt4
+        weight: 1
+      - path: root_jnt/spine_jnt1/spine_jnt2/spine_jnt3/spine_jnt4/neck_jnt
+        weight: 1
+      - path: root_jnt/tail_jnt1
+        weight: 1
+      - path: root_jnt/tail_jnt1/tail_jnt2
+        weight: 1
+      - path: root_jnt/tail_jnt1/tail_jnt2/tail_jnt3
+        weight: 1
+      - path: root_jnt/tail_jnt1/tail_jnt2/tail_jnt3/tail_jnt4
+        weight: 1
+      - path: root_jnt/tail_jnt1/tail_jnt2/tail_jnt3/tail_jnt4/tail_jnt5
+        weight: 1
+      - path: root_jnt/tail_jnt1/tail_jnt2/tail_jnt3/tail_jnt4/tail_jnt5/tail_jnt6
+        weight: 1
+      - path: root_jnt/tail_jnt1/tail_jnt2/tail_jnt3/tail_jnt4/tail_jnt5/tail_jnt6/tail_jnt7
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
