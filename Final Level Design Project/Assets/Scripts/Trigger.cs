@@ -15,6 +15,11 @@ public class Trigger : MonoBehaviour {
 	void OnTriggerExit(Collider other)
 	{
 		obj.GetComponent<Animator>().SetBool("Entered", false);
+        if(gameObject.tag == "Bell")
+        {
+            AudioSource source = gameObject.GetComponent<AudioSource>();
+            source.Play();
+        }   
 	}
     void Update()
     {
